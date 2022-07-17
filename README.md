@@ -15,7 +15,7 @@ Also, Oralyzer has its own module to fetch URLs from web.archive.org, it then se
 ### Installation
 
 ```
-$ git clone https://github.com/r0075h3ll/Oralyzer.git
+$ git clone https://github.com/trhacknon/Oralyzer.git
 $ pip3 install -r requirements.txt
 ```
 
@@ -34,4 +34,4 @@ You can contribute to this project in following ways:
 
 - Create pull requests
 - Report bugs
-- Hit me up on <a href='http://twitter.com/r0075h3ll'>Twitter</a> with a new idea/feature
+- Hit me up on <a href='http://twitter.com/'>Twitter</a> with a new idea/feature
